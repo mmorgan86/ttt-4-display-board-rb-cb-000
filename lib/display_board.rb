@@ -7,4 +7,5 @@ def display_board(board)
   rows[2] =  "   |   |   /n"
   rows[3] =  "-----------/n"
   rows[4] =  "   |   |   /n"
+  puts rows
 end
