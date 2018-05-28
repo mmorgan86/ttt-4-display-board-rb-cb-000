@@ -3,9 +3,9 @@
 board = ["x", " ", "x", " ", " ", " ", " ", " ", " "]
 
 def display_board(board)
-  puts "   |   |   /n"
-  puts "-----------/n"
-  puts "   |   |   /n"
-  puts "-----------/n"
-  puts "   |   |   /n"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
