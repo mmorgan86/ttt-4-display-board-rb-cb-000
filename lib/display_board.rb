@@ -6,5 +6,5 @@ display_board(board)
   puts "-----------/n"
   puts "  |  |  /n"
   puts "-----------/n"
-  puts "  |  |  /n"  
+  puts "  |  |  /n"
 end
